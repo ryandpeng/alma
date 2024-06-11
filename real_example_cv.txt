@@ -1,0 +1,45 @@
+Ryan Peng
+Mountain View, CA | (720) 835-9109 | pengryan@yahoo.com
+
+EXPERIENCE
+Loxz Digital Group Jan. 2023 - Present
+Lead Data Scientist Remote
+• Secured and executed Loxz's inaugural trial agreement/contract with a prominent industry leader.
+o PublishedmonthlyreportsonpredictingcCPIusingunivariateandmultivariatemodelsforforecasting. Optimized architecture and Improved accuracy of cCPI models by reducing errors by up to 30%
+• Spearheaded the integration of generative AI and OpenAI’s API into the email models suite. Conducted product demos for prospective customers, showcasing solutions and tools for email campaigns. Implemented prompt engineering techniques for generative AI into Character Counts and Image Optimization models.
+o Createdthefirstmodelmetricssuiteformodelevaluationanderroranalysistesting.
+• Recognized with Excellence in Data Science Award – Mar. 2023 for optimizing finance and email marketing models.
+
+Inspirit.AI Dec. 2022 - Present
+AI Instructor Remote
+• Led engaging and informative small classroom sessions of 5-6 students to convey complex AI topics. Facilitated discussions and activities to encourage collaboration and critical thinking among students. Adapted teaching approach to meet individual students' needs and skill level. Advanced lectures covered: NLP, CV, and CNNs.
+• Led project-based real-world AI applications including NLP + Finance, Driving Object Detection, and Music Recommender Systems. Moderated AI + Ethics workshop and project presentations.
+
+Abacus.AI Oct. 2021 - Mar. 2022
+Associate Product Manager Remote
+• Managed multiple end-to-end customer POCs delivering on-time ensuring high customer satisfaction. Developed ongoing accurate demand forecasting and personalized recommendation models for customers.
+• Optimized UI/UX design and user accessibility using Figma, improving user accessibility and engagement. Defined product requirements, edge cases, and success metrics for new features within data connection portal and model monitoring. Collaborated across product, engineering, and customer success teams to improve web-apps UI/UX.
+
+Aerion Supersonic Jun. 2020 - Nov. 2020
+Software Development Intern Remote
+• Constructed MLP, CNN, and hybrid models for aeronautics inlet optimizations. Decreased model errors for inlet optimization predictions by up to 50 percent and reduced data loading and training phase time by up to 20 percent.
+• Designed framework and functional prototype for weight analytics web application using Adobe XD.
+
+Plus Jun. 2019 - Aug. 2019
+Software Engineering Intern Beijing, China
+• Collaborated across teams to build remote sensing and object detection tools using LIDAR and PointNet. Assisted in integrating a 3-D semantic segmentation system into the mapping and localization system.
+
+EDUCATION
+Eastern University
+Master of Science, Data Science
+St. Davids, PA
+2024 (Expected)
+
+Stanford University
+Bachelor of Science, Computer Science
+Stanford, CA
+2021
+
+SKILLS & INTERESTS
+• Tools and Technologies: Python, C++, C, Java, R, SQL, Unix, Git, Microsoft Office, Adobe XD, Figma, Tableau, Qlik
+• Interests: Artificial Intelligence, Data Science, UI/UX Design, Product, Communication and Presentation
